@@ -1,7 +1,6 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
 > <h1 align="center">Hi 👋, I'm Manjot Singh</h1>
 <h3 align="center">Coding enthusiast | Frontend Developer | Java | JavaScript | BootStrap</h3>
 
