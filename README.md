@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Manjot Singh</h1>
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
+> <h1 align="center">Hi 👋, I'm Manjot Singh</h1>
 <h3 align="center">Coding enthusiast | Frontend Developer | Java | JavaScript | BootStrap</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-njot-singh&label=Profile%20views&color=0e75b6&style=flat" alt="m-njot-singh" /> </p>
@@ -13,7 +17,7 @@
 
 - 📫 How to reach me **manjots.bt.20@nitj.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/172SvaorpnjoS-xrmbJ7Z8J2KW_N_gy8a/view?usp=share_link](https://drive.google.com/file/d/172SvaorpnjoS-xrmbJ7Z8J2KW_N_gy8a/view?usp=share_link)
+- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1wlWvjFzvY_h1jj3lL6Gnc2RaXQl1wXSI/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-njot-singh&show_icons=true&locale=en" alt="m-njot-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-njot-singh&" alt="m-njot-singh" /></p>
-
