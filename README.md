@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manjots.bt.20@nitj.ac.in** 
 
-- 📄 Know about my experiences [Resume_Link][https://drive.google.com/file/d/1Z7TZ8TB3evzp56TzYrK2F4R8j_UNhbne/view?usp=sharing](https://drive.google.com/file/d/1Z7TZ8TB3evzp56TzYrK2F4R8j_UNhbne/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1Z7TZ8TB3evzp56TzYrK2F4R8j_UNhbne/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
