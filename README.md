@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Web Devlopment**
 
-- 📫 How to reach me **manjots.bt.20@nitj.ac.in** 
+- 📫 How to reach me **078manjotsingh@gmail.com** 
 
-- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1Z7TZ8TB3evzp56TzYrK2F4R8j_UNhbne/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1ktxd35UAPtBZFDkO5Mcgei2WDLX1bxbQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
