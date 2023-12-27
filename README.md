@@ -1,6 +1,6 @@
 
 
-Hi 👋, I'm Manjot Singh
+<h1 align="centre">Hi 👋, I'm Manjot Singh</h1>
 ![Header image](./github-header-image.png)
 <h3 align="center">Coding enthusiast | Frontend Developer | Java | JavaScript | BootStrap</h3>
 
