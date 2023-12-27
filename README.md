@@ -47,4 +47,4 @@
 
 ## My Github Contributions
 
-![snake gif](https://github.com/m-njot-singh/m-njot-singh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/m-njot-singh/m-njot-singh/output/github-contribution-grid-snake.svg)
