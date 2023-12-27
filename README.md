@@ -44,7 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-njot-singh&show_icons=true&locale=en" alt="m-njot-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-njot-singh&" alt="m-njot-singh" /></p>
-
-## My Github Contributions
-
-![Snake animation](https://raw.githubusercontent.com/m-njot-singh/m-njot-singh/output/github-contribution-grid-snake.svg)
