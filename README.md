@@ -1,7 +1,7 @@
 
 
 Hi 👋, I'm Manjot Singh
-> <h1 align="center">![Header image](./github-header-image.png)</h1>
+![Header image](./github-header-image.png)
 <h3 align="center">Coding enthusiast | Frontend Developer | Java | JavaScript | BootStrap</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-njot-singh&label=Profile%20views&color=0e75b6&style=flat" alt="m-njot-singh" /> </p>
