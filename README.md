@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **078manjotsingh@gmail.com** 
 
-- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1ktxd35UAPtBZFDkO5Mcgei2WDLX1bxbQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1VbL7A-l5B5TLPlNcS4eo6oaMo8_C2H3b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
